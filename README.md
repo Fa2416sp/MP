@@ -1,6 +1,6 @@
 # MP
 
-Fasm 
+%Fasm 
 
 инструкция по с борке файлов 
 
@@ -11,6 +11,6 @@ $ld name.o -o name
 $./name
 
 
-KP
+%KP
 
 файлы KP580
